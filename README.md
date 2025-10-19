@@ -1,3 +1,4 @@
+![Rawan Tech Store Banner](banner.png)
 # Rawan Tech Store – Futuristic Coding Gadgets Store
 
 Rawan Tech Store is a futuristic e-commerce website designed for selling innovative coding gadgets and tech accessories.
