@@ -1,3 +1,4 @@
+![Rawan Tech Store Banner](banner.png)
 # Rawan Tech Store – Futuristic Coding Gadgets Store
 
 Rawan Tech Store is a futuristic e-commerce website designed for selling innovative coding gadgets and tech accessories.
@@ -35,7 +36,7 @@ Fonts: Poppins / Orbitron
 
 ## Project Demo
 
-[![Watch the video](https://img.youtube.com/vi/bP_dYaQCFjo/0.jpg)](https://www.youtube.com/watch?v=bP_dYaQCFjo)
+[Watch the video on YouTube](https://www.youtube.com/watch?v=bP_dYaQCFjo)
 
 ---
 
