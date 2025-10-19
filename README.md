@@ -1,4 +1,3 @@
-![Rawan Tech Store Banner](banner.png)
 # Rawan Tech Store – Futuristic Coding Gadgets Store
 
 Rawan Tech Store is a futuristic e-commerce website designed for selling innovative coding gadgets and tech accessories.
@@ -31,6 +30,12 @@ Version Control: Git & GitHub
 Theme: Neon Futuristic & Glassmorphism  
 Colors: Dark navy background with cyan glow #00d9ff, aqua #7adfff, and electric green #00ffaa  
 Fonts: Poppins / Orbitron
+
+---
+
+## Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/bP_dYaQCFjo/0.jpg)](https://www.youtube.com/watch?v=bP_dYaQCFjo)
 
 ---
 
